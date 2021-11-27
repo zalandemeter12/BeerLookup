@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BeerLookup</string>
+    <string name="search_title">Search Options</string>
+</resources>
